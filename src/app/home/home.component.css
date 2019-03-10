@@ -1,0 +1,21 @@
+.border-primary-custom{
+    color:teal
+}
+.jumbotron{
+    background-image: url('./Images/jumbo-bg.jpg');
+    background-size: cover;
+    
+}
+.navbar .navbar-brand{
+    color: rgba(255, 255, 255, 0.7);
+    font-size: 1rem;
+}
+.list-group-item:hover{
+    background-color: dimgrey;
+    color : white
+}
+.card-img-top {
+    width: 100%;
+    height: 15vw;
+    object-fit: cover;
+}
